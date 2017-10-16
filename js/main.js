@@ -18,15 +18,6 @@ NOTE: This is the custom jQuery file for the template
     $(document).on('ready', function () {
 
         /*=============================
-                    Contact Form
-        ==============================*/
-        /**
-         * We are setting the email via JS to try and stop Bots spamming me
-         */
-        var contactform = document.getElementById('formaction');
-        contactform.setAttribute('action', '//formspree.io/' + 'rorystandley' + '@' + 'gmail' + '.' + 'com');
-
-        /*=============================
                     Sticky header
         ==============================*/
         $('.navbar-collapse a').on('click', function () {
