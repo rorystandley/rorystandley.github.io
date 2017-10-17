@@ -467,6 +467,9 @@ a.btn.extra:hover {}
 		   7 WORK AREA
 ==================================================*/
 
+.work-area {
+	padding-bottom: 0;
+}
 .work-inner .mix {
 	display: none;
 }
@@ -644,6 +647,12 @@ ul.work-list li {
 	background-color: #fff;
 	padding: 15px 20px;
 	border: 1px solid #ddd;
+	a {
+		color: #333;
+		&:hover {
+			color: #333;
+		}
+	}
 }
 .t-image {
 	height: 70px;
@@ -658,11 +667,15 @@ ul.work-list li {
 .t-image img {
 	border-radius: 50%;
 	width: 100%;
-}
-.t-author h4 {
-	margin: 0;
-	font-size: 16px;
-	text-transform: uppercase;
+} 
+.t-author {
+	font-size: 14px;
+	font-weight: 400;
+	h4 {
+		margin: 0;
+		font-size: 16px;
+		text-transform: uppercase;
+	}
 }
 .t-content {
 	margin-top: 30px;
