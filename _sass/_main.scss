@@ -170,6 +170,16 @@ NOTE: This is main stylesheet of the template.
      text-decoration: none;
  }
 
+ .back-button {
+     color: #FFF;
+     cursor: pointer;
+     font-size: 24px;
+     position: absolute;
+     left: -40px;
+     top: 12px;
+     transition: all 0.4s ease-in-out 0s;
+ }
+
  .main-menu {
      text-transform: uppercase;
  }
@@ -206,6 +216,11 @@ NOTE: This is main stylesheet of the template.
  .custom-navbar.top-nav-collapse .logo a {
      padding-top: 21px;
      color: #444;
+ }
+
+ .custom-navbar.top-nav-collapse .back-button  {
+    color: #444;
+    transition: all 0.4s ease-in-out 0s;
  }
 
  .custom-navbar.top-nav-collapse .main-menu ul.navbar-nav li a {
