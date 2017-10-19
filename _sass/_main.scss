@@ -85,7 +85,7 @@ NOTE: This is main stylesheet of the template.
 ==================================================*/
 
  .blog-post {
-     margin-bottom: 100px;
+     margin-bottom: 40px;
      max-height: 200px;
  }
 
@@ -96,6 +96,11 @@ NOTE: This is main stylesheet of the template.
          color: #222;
          line-height: 28px;
          font-weight: 300;
+     }
+     h2 {
+         font-weight: 900;
+         letter-spacing: 2px;
+         margin-bottom: 20px;
      }
      a, h4 {
          color: $green;
