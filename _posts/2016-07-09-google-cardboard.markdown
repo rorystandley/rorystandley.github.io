@@ -16,21 +16,30 @@ Upon reading the article on Google Cardboard, I thought how magical it might be 
 Once it had arrived, I promptly opened it and downloaded some of the apps I had been looking at. After a brief play myself, I introduced PS to the headset. I was not disappointed, after watching her walk around the room with this piece of cardboard glued to her head - Bumping into everything and replying with a "Whooooooa" or a "Whooooo" I wanted to do more!
 
 I think I have downloaded every app, currently on the iOS store! I also did some more reading and found out that YouTube offer a Google Cardboard experience for 360 films! Here are a selection of Apps/Videos I feel are well worth trying out -
+
 <h4><a href="https://itunes.apple.com/gb/app/sisters-virtual-reality-ghost/id957212695?mt=8" target="_blank" rel="noopener noreferrer">Sisters: A Virtual Reality Ghost Story</a></h4>
-<img class="pull-right" src="http://www.rstandley.co.uk/wp-content/uploads/2016/07/icon175x175.png" alt="icon175x175" width="175" height="175" />It says it all in the title of the app I feel. It's a horror story experience - I have to admit I think it will make you quite jumpy. I suppose it depends on what makes you jump! The best part if this is the ambient sound; I would recommend trying this app with your headphones in and loud enough to block out other sounds. Not one that I have let my daughters experience, certainly one you should take a look at. Your situated in a room with a settee, mantle piece and various objects covered by blankets oh and a TV that appears to be on the blink. The mantle piece has 2 dolls that looks like each other; as you turn around taking in your surroundings, various things will happen!
+
+<img class="pull-right" src="http://www.rstandley.co.uk/wp-content/uploads/2016/07/icon175x175.png" alt="icon175x175" width="100" height="100" />It says it all in the title of the app I feel. It's a horror story experience - I have to admit I think it will make you quite jumpy. I suppose it depends on what makes you jump! The best part if this is the ambient sound; I would recommend trying this app with your headphones in and loud enough to block out other sounds. Not one that I have let my daughters experience, certainly one you should take a look at. Your situated in a room with a settee, mantle piece and various objects covered by blankets oh and a TV that appears to be on the blink. The mantle piece has 2 dolls that looks like each other; as you turn around taking in your surroundings, various things will happen!
+
 <h4><a href="https://itunes.apple.com/gb/app/vr-crossy-for-google-cardboard/id1033803652?mt=8" target="_blank" rel="noopener noreferrer">VR Crossy</a></h4>
-<img class="pull-left" src="http://www.rstandley.co.uk/wp-content/uploads/2016/07/icon175x175-1.png" alt="icon175x175" width="175" height="175" />I was addicted to the game of this on my iPhone. One of the few apps that managed to live on my phone for more than a week. I have no idea that there was a VR version of this. Fire this up inside the Google Cardboard and you will quickly be faced with an endless stream of vehicles and infinite crossings that you need to make.
+
+<img class="pull-right" src="http://www.rstandley.co.uk/wp-content/uploads/2016/07/icon175x175-1.png" alt="icon175x175" width="100" height="100" />I was addicted to the game of this on my iPhone. One of the few apps that managed to live on my phone for more than a week. I have no idea that there was a VR version of this. Fire this up inside the Google Cardboard and you will quickly be faced with an endless stream of vehicles and infinite crossings that you need to make.
 
 Using the button that comes with the Google Cardboard, you can make small jumps forward and back (depending on which way you are facing) The best part is you can actually see the vehicles coming to hit you!
+
 <h4><a href="https://itunes.apple.com/us/app/discovery-vr/id1030815031?ls=1&amp;mt=8" target="_blank" rel="noopener noreferrer">Discovery VR</a></h4>
-d<img class="pull-right" src="http://www.rstandley.co.uk/wp-content/uploads/2016/07/icon175x175.jpeg" alt="icon175x175.jpeg" width="175" height="175" />iscovery VR, offers quite an immersive experience. A series of topics and associated videos such as -
+
+Discovery VR, offers quite an immersive experience. A series of topics and associated videos such as -
+
 <ul>
  	<li>Sharks</li>
  	<li>Rhinos</li>
  	<li>People</li>
  	<li>Countries</li>
 </ul>
+
 I think these change semi-frequently (Not sure on this however, new content does seem to appear every so often) The best way to understand this is as how you would imagine the Discovery channel, only you are able to feel as though you are actually on location with them. PS was quite impressed being inside a school of fish trying to escape a great white!
+
 <h4>YouTube</h4>
 Yes, YouTube! The very medium in which has enticed my daughters in their passion, also offer what I feel to be the best experience on Google Cardboard.
 

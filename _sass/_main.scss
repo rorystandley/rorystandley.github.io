@@ -97,9 +97,13 @@ NOTE: This is main stylesheet of the template.
          line-height: 28px;
          font-weight: 300;
      }
-     a {
+     a, h4 {
          color: $green;
          font-weight: 700;
+     }
+     h4 {
+         display: block;
+         margin: 15px 0;
      }
  }
 
