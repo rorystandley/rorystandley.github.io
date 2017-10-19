@@ -2,7 +2,7 @@
 layout: post
 title:  "Google CardBoard"
 date:   2016-07-09 20:00:00 +0100
-featured_image: 'google-cardboard.jpeg'
+featured_image: 'google-cardboard.jpg'
 ---
 My 2 daughters have always been attached to technology due to my own interests in it. My eldest daughter (PS) is almost 4 years old. My youngest daughter (JS) only a mere 1.5 years old. Watching them as they grow with technology has been quite exciting.
 
