@@ -1,5 +1,4 @@
-{% include header.html %}
-{% include main-header.html %}
+{% include header.html %} {% include main-header.html %}
 <!--======= WELCOME AREA =======-->
 <div id="home" class="welcome-area">
 	<div class="welcome-table">
@@ -301,14 +300,12 @@
 					{% for post in site.posts %}
 					<div class="single-testimonial">
 						<a href="{{ post.url }}" title="Permalink to {{ post.title }}">
-							<div class="t-author">
-								<div class="t-image">
-									<img src="/img/blog/{{ post.featured_image }}" alt="">
-								</div>
-								<div class="t-name">
-									<h4>{{ post.title }}</h4>
-									{{ post.date | date: "%B %-d, %Y" }}
-								</div>
+							<div class="t-image">
+								<img src="/img/blog/{{ post.featured_image }}" alt="">
+							</div>
+							<div class="t-name">
+								<h4>{{ post.title }}</h4>
+								{{ post.date | date: "%B %-d, %Y" }}
 							</div>
 							<div class="t-content">
 								<p>{{ post.content | truncatewords: 20 }}</p>

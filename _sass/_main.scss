@@ -806,26 +806,14 @@ NOTE: This is main stylesheet of the template.
      }
  }
 
- .t-image {
-     height: 70px;
-     left: 20px;
-     position: absolute;
-     right: 0;
-     width: 70px;
- }
-
- .t-name {
-     padding: 13px 0;
- }
-
  .t-image img {
-     border-radius: 50%;
      width: 100%;
  }
 
- .t-author {
+ .t-name {
      font-size: 14px;
      font-weight: 400;
+     margin-top: 15px;
      h4 {
          margin: 0;
          font-size: 16px;
@@ -834,12 +822,8 @@ NOTE: This is main stylesheet of the template.
  }
 
  .t-content {
-     margin-top: 30px;
+     margin-top: 15px;
      font-size: 15px;
- }
-
- .t-author {
-     padding-left: 85px;
  }
 
  .testimonial-area .owl-dots {
