@@ -591,6 +591,9 @@ NOTE: This is main stylesheet of the template.
 
  .work-area {
      padding-bottom: 0;
+     @media only screen and (max-width: 767px) {
+         padding-bottom: 0!important;
+     }
  }
 
  .work-inner .mix {
