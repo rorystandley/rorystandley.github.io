@@ -218,6 +218,10 @@ NOTE: This is main stylesheet of the template.
      color: #444;
  }
 
+.custom-navbar.top-nav-collapse.blog-header .logo a {
+    padding-top: 12px;
+}
+
  .custom-navbar.top-nav-collapse .back-button  {
     color: #444;
     transition: all 0.4s ease-in-out 0s;
