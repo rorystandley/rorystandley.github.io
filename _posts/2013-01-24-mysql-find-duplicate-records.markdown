@@ -2,7 +2,7 @@
 layout: post
 title:  "MySQL - Find Duplicate Records"
 date:   2013-01-24 20:00:00 +0100
-featured_image: 'google-cardboard.jpg'
+featured_image: 'mysql.jpg'
 ---
 Recently I was working with the <a href="http://devdocs.magento.com/guides/m1x/api/soap/introduction.html" target="_blank" rel="nofollow">Magento API</a> uploading products for a test project. The type of products that I was uploading where just simple types. Each product however required that it have a unique “SKU” code to represent it, and no duplicate records.
 
