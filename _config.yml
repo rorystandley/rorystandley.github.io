@@ -24,6 +24,9 @@ github_username:  rorystandley
 linkedin_username: rstandley
 facebook_username: rorystandley
 
+# The URL of your actual domain. This will be used to make absolute links in the RSS feed.
+url: http://rorystandley.co.uk/
+
 # Build settings
 markdown: kramdown
 plugins:
