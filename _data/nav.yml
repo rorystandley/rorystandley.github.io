@@ -3,5 +3,5 @@ main:
     - { url: '#about', text: 'About' }
     - { url: '#services', text: 'Services' }
     - { url: '#work', text: 'Work' }
-    - { url: 'https://google.com', text: 'Blog', target: '_blank' }
+    - { url: 'https://medium.com/@rorystandley', text: 'Blog', target: '_blank' }
     - { url: '#contact', text: 'Contact' }
