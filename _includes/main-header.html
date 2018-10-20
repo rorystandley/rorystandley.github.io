@@ -24,7 +24,7 @@
 							<!--== manin menu ==-->
 							{% for item in site.data.nav.main %}
 							<li>
-								<a class="smoth-scroll theme-color" href="{{ item.url }}">{{ item.text }}</a>
+								<a class="smoth-scroll theme-color" href="{{ item.url }}" {% if item.target %}target="{{ item.target }}"{% endif %}>{{ item.text }}</a>
 							</li>
 							{% endfor %}
 						</ul>
