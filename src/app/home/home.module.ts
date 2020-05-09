@@ -5,9 +5,10 @@ import { HomeRoutingModule } from "./home-routing.module";
 import { SharedModule } from "../shared/shared.module";
 import { TopContentComponent } from './components/top-content/top-content.component';
 import { AboutMeComponent } from './components/about-me/about-me.component';
+import { PortfolioComponent } from './components/portfolio/portfolio.component';
 
 @NgModule( {
-	declarations: [ HomeComponent, TopContentComponent, AboutMeComponent ],
+	declarations: [ HomeComponent, TopContentComponent, AboutMeComponent, PortfolioComponent ],
 	imports: [
 		CommonModule,
 		HomeRoutingModule,
