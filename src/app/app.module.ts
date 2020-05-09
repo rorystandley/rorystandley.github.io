@@ -4,6 +4,7 @@ import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { SharedModule } from "./shared/shared.module";
 import { NgwWowModule } from "ngx-wow";
+import { CoreModule } from "./core/core.module";
 
 @NgModule( {
 	declarations: [
@@ -13,6 +14,7 @@ import { NgwWowModule } from "ngx-wow";
 		BrowserModule,
 		AppRoutingModule,
 		SharedModule,
+		CoreModule,
 		NgwWowModule
 	],
 	providers: [],

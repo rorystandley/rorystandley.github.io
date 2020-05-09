@@ -13,7 +13,7 @@ import { BlogListComponent } from './components/blog-list/blog-list.component';
 	imports: [
 		CommonModule,
 		HomeRoutingModule,
-		SharedModule,
+		SharedModule
 	]
 } )
 export class HomeModule {

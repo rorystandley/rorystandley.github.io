@@ -2,6 +2,10 @@
   background: #444;
   transition: all .6s;
   backface-visibility: hidden;
+
+  a {
+    cursor: pointer;
+  }
 }
 
 .navbar.navbar-no-bg {
