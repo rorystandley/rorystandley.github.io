@@ -1,6 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 import { faTwitter, faLinkedin } from '@fortawesome/free-brands-svg-icons';
 import { faChevronUp } from "@fortawesome/free-solid-svg-icons";
+import { ScrollerService } from "../../../core/services/scroller.service";
 
 @Component( {
 	selector: 'app-footer',
@@ -13,7 +14,7 @@ export class FooterComponent implements OnInit {
 	linkedIn = faLinkedin;
 	chevron = faChevronUp
 
-	constructor() {
+	constructor( private scrollerService: ScrollerService ) {
 	}
 
 	ngOnInit() {

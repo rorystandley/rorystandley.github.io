@@ -21,6 +21,8 @@ h6 {
 }
 
 a {
+  cursor: pointer;
+
   &hover,
   &focus {
     color: $link-color;
