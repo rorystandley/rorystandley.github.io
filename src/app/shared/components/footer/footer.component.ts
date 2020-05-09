@@ -1,5 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import { faTwitter, faLinkedin } from '@fortawesome/free-brands-svg-icons';
+import { faChevronUp } from "@fortawesome/free-solid-svg-icons";
 
 @Component( {
 	selector: 'app-footer',
@@ -10,6 +11,7 @@ export class FooterComponent implements OnInit {
 
 	twitter = faTwitter;
 	linkedIn = faLinkedin;
+	chevron = faChevronUp
 
 	constructor() {
 	}
