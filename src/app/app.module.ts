@@ -5,6 +5,7 @@ import { AppComponent } from './app.component';
 import { SharedModule } from "./shared/shared.module";
 import { NgwWowModule } from "ngx-wow";
 import { CoreModule } from "./core/core.module";
+import { ServiceWorkerModule } from '@angular/service-worker';
 
 @NgModule( {
 	declarations: [
@@ -15,7 +16,8 @@ import { CoreModule } from "./core/core.module";
 		AppRoutingModule,
 		SharedModule,
 		CoreModule,
-		NgwWowModule
+		NgwWowModule,
+		ServiceWorkerModule.register('ngsw-worker.js', { enabled: true })
 	],
 	providers: [],
 	bootstrap: [ AppComponent ]
