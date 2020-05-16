@@ -25,5 +25,17 @@
   .top-big-link {
     margin-top: 45px;
 
+    a {
+      border: 0;
+      color: #fff;
+      opacity: 0.8;
+      font-size: 32px;
+      margin: 0 6px;
+
+      &:hover,
+      &:focus {
+        opacity: 1;
+      }
+    }
   }
 }
