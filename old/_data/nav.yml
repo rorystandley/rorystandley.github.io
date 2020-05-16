@@ -1,7 +1,0 @@
-main:
-    - { url: '#home', text: 'Home' }
-    - { url: '#about', text: 'About' }
-    - { url: '#services', text: 'Services' }
-    - { url: '#work', text: 'Work' }
-    - { url: 'https://medium.com/@rorystandley', text: 'Blog', target: '_blank' }
-    - { url: '#contact', text: 'Contact' }
