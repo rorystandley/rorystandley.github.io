@@ -7,16 +7,18 @@
 
             <div class="col-md-6 offset-md-1 footer-right">
                 <a href="https://twitter.com/rorystandley" target="_blank">
-                    <fa-icon [icon]="twitter"></fa-icon>
+                    <app-social-icon type="twitter"></app-social-icon>
                 </a>
                 <a href="https://www.linkedin.com/in/rstandley" target="_blank">
-                    <fa-icon [icon]="linkedIn"></fa-icon>
+                    <app-social-icon type="linkedIn"></app-social-icon>
                 </a>
             </div>
         </div>
         <div class="row">
             <div class="col footer-bottom">
-                <a class="scroll-link" (click)="scrollerService.scroll('#top-content')"><fa-icon [icon]="chevron"></fa-icon></a>
+                <a class="scroll-link" (click)="scrollerService.scroll('#top-content')">
+                    <fa-icon [icon]="chevron"></fa-icon>
+                </a>
             </div>
         </div>
     </div>
