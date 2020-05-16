@@ -1,5 +1,7 @@
+@import "../../../../styles/abstracts/variables";
+
 .top-content {
-  background: #16a085;
+  background: $primary;
   padding: 210px 0;
 
   .description {
@@ -14,6 +16,7 @@
     color: #fff;
 
     h1 {
+      color: #fff;
       margin-top: 25px;
 
     }

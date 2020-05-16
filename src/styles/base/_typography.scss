@@ -21,10 +21,12 @@ h6 {
 }
 
 a {
+  border-bottom: 1px dashed $primary;
+  color: $primary;
   cursor: pointer;
 
-  &hover,
-  &focus {
+  &:hover,
+  &:focus {
     color: $link-color;
     text-decoration: none;
     transition: all .3s;

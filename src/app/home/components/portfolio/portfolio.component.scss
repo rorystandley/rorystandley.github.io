@@ -1,3 +1,5 @@
+@import "../../../../styles/abstracts/variables";
+
 .portfolio-box {
   padding-top: 30px;
   text-align: left;
@@ -22,12 +24,13 @@
 }
 
 .portfolio-box h3 a {
-  color: #555;
+  border: 0;
+  color: $dark-grey;
 }
 
 .portfolio-box h3 a:hover,
 .portfolio-box h3 a:focus {
-  color: #9b59b6;
+  color: $primary;
 }
 
 .portfolio-box h3 i {
