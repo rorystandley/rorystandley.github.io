@@ -1,0 +1,50 @@
+@import "../../../../styles/abstracts/variables";
+
+footer {
+  padding: 40px 0 0 0;
+  background: #444;
+  color: #aaa;
+  text-align: left;
+}
+
+.footer-left a {
+  color: #ddd;
+  border-bottom: 1px dashed #ddd;
+}
+
+.footer-left a:hover, .footer-left a:focus {
+  color: #ddd;
+  border: 0;
+}
+
+.footer-right {
+  text-align: right;
+
+  a {
+    border: 0;
+    color: #aaa;
+    font-size: 32px;
+    margin: 0 6px;
+  }
+}
+
+.footer-right a:hover, .footer-right a:focus {
+  color: $white
+}
+
+.footer-bottom {
+  padding-bottom: 25px;
+  text-align: center;
+
+  a {
+    border: 0;
+    color: #666;
+    font-size: 32px;
+    line-height: 40px;
+
+    &:hover,
+    &:focus {
+      color: #888;
+    }
+  }
+}

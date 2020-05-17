@@ -1,0 +1,23 @@
+.section-container {
+  margin: 0 auto;
+  padding-bottom: 80px;
+
+  img {
+    max-width: 100%;
+  }
+
+  .section-description {
+    margin-top: 60px;
+    padding-bottom: 10px;
+
+    p {
+      margin-top: 20px;
+      padding: 0 120px;
+
+    }
+  }
+}
+
+.section-container-gray-bg {
+  background: #f8f8f8;
+}
