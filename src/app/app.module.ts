@@ -6,6 +6,7 @@ import { SharedModule } from "./shared/shared.module";
 import { NgwWowModule } from "ngx-wow";
 import { CoreModule } from "./core/core.module";
 import { ServiceWorkerModule } from '@angular/service-worker';
+import { ScullyLibModule } from '@scullyio/ng-lib-v8';
 
 @NgModule( {
 	declarations: [
@@ -17,7 +18,8 @@ import { ServiceWorkerModule } from '@angular/service-worker';
 		SharedModule,
 		CoreModule,
 		NgwWowModule,
-		ServiceWorkerModule.register('ngsw-worker.js', { enabled: true })
+		ServiceWorkerModule.register('ngsw-worker.js', { enabled: true }),
+		ScullyLibModule
 	],
 	providers: [],
 	bootstrap: [ AppComponent ]
