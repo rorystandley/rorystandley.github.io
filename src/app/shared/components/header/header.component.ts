@@ -8,7 +8,7 @@ import { ScrollerService } from "../../../core/services/scroller.service";
 } )
 export class HeaderComponent implements OnInit {
 
-	constructor( private scrollerService: ScrollerService ) {
+	constructor( public scrollerService: ScrollerService ) {
 	}
 
 	ngOnInit() {

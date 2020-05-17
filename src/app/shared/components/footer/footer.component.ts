@@ -14,7 +14,7 @@ export class FooterComponent implements OnInit {
 	linkedIn = faLinkedin;
 	chevron = faChevronUp
 
-	constructor( private scrollerService: ScrollerService ) {
+	constructor( public scrollerService: ScrollerService ) {
 	}
 
 	ngOnInit() {
