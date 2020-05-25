@@ -61,9 +61,14 @@ import 'zone.js/dist/zone';  // Included with Angular CLI.
 /***************************************************************************************************
  * APPLICATION IMPORTS
  */
+import smoothscroll from 'smoothscroll-polyfill';
+
+// kick off the polyfill!
+smoothscroll.polyfill();
 
 /***************************************************************************************************
 * SCULLY IMPORTS
 */
 // tslint:disable-next-line: align
 import 'zone.js/dist/task-tracking';
+

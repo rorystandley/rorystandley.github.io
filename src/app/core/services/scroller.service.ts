@@ -9,8 +9,7 @@ export class ScrollerService {
 	}
 
 	scroll( id: string ) {
-		const elementList = document.querySelectorAll( id );
-		const element = elementList[ 0 ] as HTMLElement;
-		element.scrollIntoView( { behavior: 'smooth' } );
+		const element = document.querySelector( id );
+		element.scrollIntoView( { behavior: 'smooth' } )
 	}
 }
