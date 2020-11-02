@@ -28,6 +28,7 @@
     "@fortawesome/free-brands-svg-icons": "^5.13.0",
     "@fortawesome/free-solid-svg-icons": "^5.13.0",
     "@scullyio/init": "0.0.28",
+    "@scullyio/ng-lib": "latest",
     "@scullyio/ng-lib-v8": "latest",
     "@scullyio/scully": "latest",
     "bootstrap": "^4.4.1",

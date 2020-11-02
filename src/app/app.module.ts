@@ -7,6 +7,7 @@ import { NgwWowModule } from "ngx-wow";
 import { CoreModule } from "./core/core.module";
 import { ServiceWorkerModule } from '@angular/service-worker';
 import { ScullyLibModule } from '@scullyio/ng-lib-v8';
+import { ScullyLibModule } from '@scullyio/ng-lib';
 
 @NgModule( {
 	declarations: [
