@@ -1,7 +1,7 @@
 import { Component, OnInit } from '@angular/core';
-import { faTwitter, faLinkedin } from '@fortawesome/free-brands-svg-icons';
 import { faChevronUp } from "@fortawesome/free-solid-svg-icons";
 import { ScrollerService } from "../../../core/services/scroller.service";
+import { environment } from "../../../../environments/environment";
 
 @Component( {
 	selector: 'app-footer',
@@ -10,9 +10,8 @@ import { ScrollerService } from "../../../core/services/scroller.service";
 } )
 export class FooterComponent implements OnInit {
 
-	twitter = faTwitter;
-	linkedIn = faLinkedin;
 	chevron = faChevronUp
+	environment = environment;
 
 	constructor( public scrollerService: ScrollerService ) {
 	}

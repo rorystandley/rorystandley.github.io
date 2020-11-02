@@ -13,6 +13,7 @@ export class SocialIconComponent implements OnInit {
 	choice;
 
 	@Input() type;
+	@Input() link: string;
 
 	constructor() {
 	}
