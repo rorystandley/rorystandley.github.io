@@ -10,12 +10,8 @@
                     </p>
                 </div>
                 <div class="top-big-link wow fadeInUp">
-                    <a href="https://twitter.com/rorystandley" target="_blank">
-                        <app-social-icon type="twitter"></app-social-icon>
-                    </a>
-                    <a href="https://www.linkedin.com/in/rstandley" target="_blank">
-                        <app-social-icon type="linkedIn"></app-social-icon>
-                    </a>
+                    <app-social-icon type="twitter" [link]="environment.socialLinks.twitter"></app-social-icon>
+                    <app-social-icon type="linkedIn" [link]="environment.socialLinks.linkedIn"></app-social-icon>
                 </div>
             </div>
         </div>
