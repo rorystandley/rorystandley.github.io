@@ -35,16 +35,4 @@ footer {
 .footer-bottom {
   padding-bottom: 25px;
   text-align: center;
-
-  a {
-    border: 0;
-    color: #666;
-    font-size: 32px;
-    line-height: 40px;
-
-    &:hover,
-    &:focus {
-      color: #888;
-    }
-  }
 }
